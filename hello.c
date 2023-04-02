@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf(" i love coding ok by by ");
+    printf(" Allah knows everything ");
     return 0;
 }
